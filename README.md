@@ -1,2 +1,2 @@
 # S2DIP
-Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior
+Code for "Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior", arXiv: 2008.09753
