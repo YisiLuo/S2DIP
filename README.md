@@ -1,4 +1,3 @@
 # S2DIP
-(Code will be available after acceptance)
-Code for "Unsupervised Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Deep Image Prior", arXiv: 2008.09753
+Code for "Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Unsupervised Deep Image Prior", IEEE JSTARS, 2021
 
